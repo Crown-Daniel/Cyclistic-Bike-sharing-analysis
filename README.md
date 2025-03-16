@@ -271,3 +271,4 @@ The report understands the scope of this analysis is extremely limited and becau
 - Household income data: Pinpointing the average income of the long-term memebrs as compared to the casual counter-parts would allow for further analysis of what is the typical economic standing of each type of member, as well as providing the ability to analysis overall price sensitivity between the two different membership types.
 
 # Thank you very much for your time!
+🙂
