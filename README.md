@@ -257,7 +257,7 @@ The average ride time shows a stark difference between the casuals and members. 
 - Long term riders tended to stick more so to classic bikes as opposed to the docked or electric bikes.
 
 ### Recommendations
-This report recommends the following:
+*This report recommends the following:*
 - Introducing plans thats may be more appealing to casuals for the summer months. This marketing should be done during the winter months in preperation.
 - The casual users might be more interested in a memebrship option that allows for per-use balance card. Alternatively, the existing payment structure may be altered in order to make ---- single-use more costly to the casual riders as well as lowering the long-term membership rate.
 - Membership rates specifically for the warmer months as well as for those who only ride on the weekends would assist in targeting the casual riders more specifically
